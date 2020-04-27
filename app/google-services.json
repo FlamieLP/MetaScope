@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684793897806",
+    "firebase_url": "https://metascope-1d8f9.firebaseio.com",
+    "project_id": "metascope-1d8f9",
+    "storage_bucket": "metascope-1d8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684793897806:android:d967819d8213f031eb741f",
+        "android_client_info": {
+          "package_name": "com.ba.metascope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684793897806-7b8pid116819n37upv2lcie594t9tcqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZ-Fhc3E4HjNS1CxZ5czDpzlmqLe-h6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684793897806-7b8pid116819n37upv2lcie594t9tcqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
